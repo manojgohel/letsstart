@@ -1,9 +1,9 @@
 # Site settings
-site: Ephesus
-title: Ephesus - Minimalist Jekyll Theme
-keywords: ephesus, blog
+site: Let's Start
+title:  Let's Start -  Let's Start everything...!
+keywords: blog
 description: >-
-  Ephesus - Minimalist Jekyll Theme
+  Let's Start -  Let's Start everything...!
 lang: en-US
 timezone:  Europe/Istanbul
 repo: https://github.com/onepase/Ephesus # site repo [optional]
@@ -13,7 +13,7 @@ discus-identifier:  XXX
 
 # Author settings
 author:
-  name: Hakan Torun
+  name: Let's Start
   bio: Computer Engineer @pardinus <br> Founder @zaqa <br> Open Source /#linux
   picture: assets/images/profile.jpg 
   github: onepase # github username
