@@ -1,20 +1,20 @@
 # Site settings
-site: Ephesus
-title: Ephesus - Minimalist Jekyll Theme
-keywords: ephesus, blog
+site: Lets Start
+title: Lets Start - Minimalist Coding site
+keywords: Lets Start, blog
 description: >-
-  Ephesus - Minimalist Jekyll Theme
+  Lets Start - Minimalist Coding site
 lang: en-US
 timezone:  Europe/Istanbul
-repo: https://github.com/onepase/Ephesus # site repo [optional]
+repo: https://LetsStart.xyz # site repo [optional]
 google_verify:      XXX # Put your Google Verification here
 google_analytics:   UA-XXXXXXXX-00 # Put your Google Analytics code
 discus-identifier:  XXX
 
 # Author settings
 author:
-  name: Hakan Torun
-  bio: Computer Engineer @pardinus <br> Founder @zaqa <br> Open Source /#linux
+  name: Let's Start
+  bio: NodeJS <br> Angular <br> Laravel  <br> MongoDB
   picture: assets/images/profile.jpg
   github: onepase # github username
   twitter: onepase # twitter username
@@ -22,7 +22,7 @@ author:
   instagram: onepase # instagram username
   youtube: https://www.youtube.com/channel/UCMmAto-wxBootXN91AzBiDg # youtube username
   linkedin: hakantorun # linkedin username
-  email: your-email@email.com # email adress
+  email: manojgohel15@gmail.com # email adress
 
 
 # URL settings
